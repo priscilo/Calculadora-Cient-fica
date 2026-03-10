@@ -21,3 +21,9 @@ npm install prettier --save-dev
 
 
 git pull origin main --rebase
+
+git pull --rebase origin main
+
+npm install @priscilo/calculadora-cientifica
+
+
