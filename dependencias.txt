@@ -18,3 +18,6 @@ npm run dev
 DevDependencies
 npm install eslint --save-dev
 npm install prettier --save-dev
+
+
+git pull origin main --rebase
